@@ -61,9 +61,8 @@ Node.js: JavaScript runtime environment for server-side development.
 Express.js: Web application framework for Node.js.
 MySql: SQL database for storing recipe data.
 
-JSON Web Tokens (JWT): Authentication mechanism for securing user sessions.
+
 Deployment:
-\
 Contributing
 Contributions to the Recipe Repository project are always welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the project's GitHub repository. Additionally, you can fork the repository, make your changes, and submit a pull request for review.
 
